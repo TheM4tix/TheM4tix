@@ -29,15 +29,7 @@
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matios123443@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheM4tix&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheM4tix&layout=compact&theme=radical&hide_border=true)
-
+[![Discord](.thematix)
 ---
 
 ## 💡 About Me
